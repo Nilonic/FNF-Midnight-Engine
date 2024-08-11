@@ -91,4 +91,5 @@
 	<!-- _________________________________ Custom _______________________________ -->
 
 	<!--Place custom nodes like icons here-->
+	<echo value="Finished Parsing XML!" />
 </project>
